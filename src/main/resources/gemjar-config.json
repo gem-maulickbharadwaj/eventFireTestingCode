@@ -1,0 +1,25 @@
+{
+  "environment": "beta",
+  "project_name": "JEWEL-UI-JV",
+  "report_name": "Jewel-Regression",
+  "jewel_user": "geco-maulik",
+  "feature": "src/main/resources/features/logIn.feature",
+  "tagName": "",
+  "scenario": "",
+  "email_report": "nooooooooooooooooooooooooooooooooooooo",
+  "email_to": ["maulick.bharadwaj@geminisolutions.com","anshul.gandotra@geminisolutions.com","contact@gemecosystem.com","shruti.kukreja@geminisolutions.com","aakash.gupta@geminisolutions.com","hitesh.ahuja@geminisolutions.com","yashita.khurana@geminisolutions.com","dipanshu.kapoor@geminisolutions.com","vaibhav.a.sharma@geminisolutions.com"],
+  "jewel_bridge_token": "9fcc7a7a-cf7a-4b15-98f4-09f0b567b91f1676461220351",
+  "enter_point": "https://apis-beta.gemecosystem.com/enter-point",
+  "gemjarSubID": "test_id",
+  "glueCode": "StepDefination",
+  "prod": {
+    "browserName": "grid",
+    "launchUrl": "https://jewel.gemecosystem.com/",
+    "browserTimeout": 10
+  },
+  "beta": {
+    "browserName": "Chrome",
+    "launchUrl": "https://jewel-beta.gemecosystem.com/",
+    "browserTimeout": 10
+  }
+}
